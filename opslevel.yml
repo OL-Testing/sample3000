@@ -1,6 +1,6 @@
 version: 1
 service:
-  name: Sample 300
+  name: Sample 3000
   lifecycle: beta
   tier: tier_2
   product: Procurement
