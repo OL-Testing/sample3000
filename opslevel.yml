@@ -7,4 +7,4 @@ service:
   owner: inventory_team
   language: Ruby
   framework: Rails
-  description: Manages Samples for our inventory service.
+  description: Manages Samples for our inventory service and adds.
